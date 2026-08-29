@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anziteng.github.io/mulebuy-spreadsheet-warehouse-field-glossary/sitemap.xml
